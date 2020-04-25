@@ -1,0 +1,3 @@
+rootProject.name='Taxiboard Payment'
+include ':app'
+include ':taxiboard-cpi'
