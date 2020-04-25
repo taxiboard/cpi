@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaxiBoard Payment Sample</string>
+    <string name="description_welcome">Welcome to the TaxiBoard payment sample app, which is showcasing the TaxiBoard Payment SDK</string>
+    <string name="new_user_registered">Registered</string>
+    <string name="new_user_registered_mock">Registered (Mock)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_number_is_empty">Phone number is empty</string>
+    <string name="phone_number_is_invalid">Phone number is invalid</string>
+    <string name="sample_phone_number">09127479731</string>
+    <string name="taxiboard_logo">Taxiboard logo</string>
+</resources>
